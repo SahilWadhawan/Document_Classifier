@@ -20,3 +20,8 @@ This project uses a Convolutional Neural Network (CNN) model trained on the RVL-
 2. Run the web app: `python app.py`
 3. Visit: `http://localhost:5000` in your browser
 
+## Working App
+![Screenshot 2025-06-02 063949](https://github.com/user-attachments/assets/497c20b3-b914-4cd0-969b-60f94d146c6a) 
+![Screenshot 2025-06-02 064007](https://github.com/user-attachments/assets/e0427ebb-8e91-481e-b07c-edf0bbc26146)
+
+
